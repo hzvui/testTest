@@ -1,0 +1,252 @@
+Uri: https://chek4n.itch.io/virtuaverse
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\virtuaverse.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Pixelify Sans:400%2C400italic%2C700%2C700italic
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/pixelifysans/v1/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TQO101fZZY.ttf
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\s\pixelifysans\v1\CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TQO101fZZY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/pixelifysans/v1/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TTp0E1fZZY.ttf
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\s\pixelifysans\v1\CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TTp0E1fZZY.ttf
+Content Type: font/ttf
+
+Uri: https://img.itch.zone/aW1hZ2UvMzUyMzAxOS8yMDk4ODg0Ni5qcGc=/347x500/5uOqKf.jpg
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1hZ2UvMzUyMzAxOS8yMDk4ODg0Ni5qcGc=\347x500\5uOqKf.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMzUyMzAxOS8yMDk4ODg0Ni5qcGc=/794x1000/YeGc%2BK.jpg
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1hZ2UvMzUyMzAxOS8yMDk4ODg0Ni5qcGc=\794x1000\YeGc+K.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMzUyMzAxOS8yMDk4ODg0Ni5qcGc=/original/u8KH30.jpg
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1hZ2UvMzUyMzAxOS8yMDk4ODg0Ni5qcGc=\original\u8KH30.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMzUyMzAxOS8yMDk4ODg0OC5wbmc=/347x500/6mOZHA.png
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1hZ2UvMzUyMzAxOS8yMDk4ODg0OC5wbmc=\347x500\6mOZHA.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMzUyMzAxOS8yMDk4ODg0OC5wbmc=/794x1000/iAVmx9.png
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1hZ2UvMzUyMzAxOS8yMDk4ODg0OC5wbmc=\794x1000\iAVmx9.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMzUyMzAxOS8yMDk4ODg0OC5wbmc=/original/ngYeC8.png
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1hZ2UvMzUyMzAxOS8yMDk4ODg0OC5wbmc=\original\ngYeC8.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMzUyMzAxOS8yMDk4ODg2NS5qcGc=/347x500/b7uQT1.jpg
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1hZ2UvMzUyMzAxOS8yMDk4ODg2NS5qcGc=\347x500\b7uQT1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMzUyMzAxOS8yMDk4ODg2NS5qcGc=/794x1000/qWM1YQ.jpg
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1hZ2UvMzUyMzAxOS8yMDk4ODg2NS5qcGc=\794x1000\qWM1YQ.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMzUyMzAxOS8yMDk4ODg2NS5qcGc=/original/N4fCVH.jpg
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1hZ2UvMzUyMzAxOS8yMDk4ODg2NS5qcGc=\original\N4fCVH.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMzUyMzAxOS8yMDk5MDE1NC5naWY=/347x500/F3FWmE.gif
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1hZ2UvMzUyMzAxOS8yMDk5MDE1NC5naWY=\347x500\F3FWmE.gif
+Content Type: image/gif
+
+Uri: https://img.itch.zone/aW1hZ2UvMzUyMzAxOS8yMDk5MDE1NC5naWY=/794x1000/46loP5.gif
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1hZ2UvMzUyMzAxOS8yMDk5MDE1NC5naWY=\794x1000\46loP5.gif
+Content Type: image/gif
+
+Uri: https://img.itch.zone/aW1hZ2UvMzUyMzAxOS8yMDk5MDE1NC5naWY=/original/o7pADn.gif
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1hZ2UvMzUyMzAxOS8yMDk5MDE1NC5naWY=\original\o7pADn.gif
+Content Type: image/gif
+
+Uri: https://img.itch.zone/aW1nLzIwOTg4NTQyLnBuZw==/32x32%23/DoSREd.png
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1nLzIwOTg4NTQyLnBuZw==\32x32#\DoSREd.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzIwOTg5NTA2LmdpZg==/original/fqQVvs.gif
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1nLzIwOTg5NTA2LmdpZg==\original\fqQVvs.gif
+Content Type: image/gif
+
+Uri: https://img.itch.zone/aW1nLzIwOTk2NDY5LmpwZw==/original/Khopa8.jpg
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1nLzIwOTk2NDY5LmpwZw==\original\Khopa8.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1nLzIxMDAwMDE5LnBuZw==/original/qxT8%2F1.png
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1nLzIxMDAwMDE5LnBuZw==\original\qxT81.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzIxMDExMTAzLnBuZw==/original/4nQJIm.png
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\aW1nLzIxMDExMTAzLnBuZw==\original\4nQJIm.png
+Content Type: image/png
+
+Uri: https://static.itch.io/bundle.min.js?1746215576
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://static.itch.io/fonts/04b03.eot
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\04b03.eot
+Content Type: application/octet-stream
+
+Uri: https://static.itch.io/fonts/04b03.eot?
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\04b03-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.itch.io/fonts/04b03.ttf
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\04b03.ttf
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/04b03.woff
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\04b03.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/04b03.woff2
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\04b03.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/Lato-Black.woff
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\Lato-Black.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/Lato-Black.woff2
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\Lato-Black.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/Lato-Bold.woff
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\Lato-Bold.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/Lato-Bold.woff2
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\Lato-Bold.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/Lato-Italic.woff
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\Lato-Italic.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/Lato-Italic.woff2
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\Lato-Italic.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/Lato-Regular.woff
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\Lato-Regular.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/Lato-Regular.woff2
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\Lato-Regular.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/lato-v14-latin-700.woff
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\lato-v14-latin-700.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/lato-v14-latin-700.woff2
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\lato-v14-latin-700.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/lato-v14-latin-900.woff
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\lato-v14-latin-900.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/lato-v14-latin-900.woff2
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\lato-v14-latin-900.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/lato-v14-latin-italic.woff
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\lato-v14-latin-italic.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/lato-v14-latin-italic.woff2
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\lato-v14-latin-italic.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/lato-v14-latin-regular.woff
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\lato-v14-latin-regular.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/fonts/lato-v14-latin-regular.woff2
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\fonts\lato-v14-latin-regular.woff2
+Content Type: text/plain
+
+Uri: https://static.itch.io/game.css?1746215576
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\game.css
+Content Type: text/css
+
+Uri: https://static.itch.io/game.min.js?1746215576
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\game.min.js
+Content Type: application/x-javascript
+
+Uri: https://static.itch.io/icons/fonts/icomoon.eot?4ibnvg
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\icons\fonts\icomoon.eot
+Content Type: application/octet-stream
+
+Uri: https://static.itch.io/icons/fonts/icomoon.svg?4ibnvg
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\icons\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/icons/fonts/icomoon.ttf?4ibnvg
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\icons\fonts\icomoon.ttf
+Content Type: text/plain
+
+Uri: https://static.itch.io/icons/fonts/icomoon.woff?4ibnvg
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\icons\fonts\icomoon.woff
+Content Type: text/plain
+
+Uri: https://static.itch.io/images/cc-loader.gif
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\images\cc-loader.gif
+Content Type: image/gif
+
+Uri: https://static.itch.io/images/loader-dark.gif
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\images\loader-dark.gif
+Content Type: image/gif
+
+Uri: https://static.itch.io/images/loader-huge.gif
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\images\loader-huge.gif
+Content Type: image/gif
+
+Uri: https://static.itch.io/images/loader.gif
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\images\loader.gif
+Content Type: image/gif
+
+Uri: https://static.itch.io/images/loading.svg
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\images\loading.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/images/play_icon.svg
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\images\play_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/images/snowrepeat.svg
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\images\snowrepeat.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/images/twitch_logo.svg
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\images\twitch_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/images/youtube_icon.svg
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\images\youtube_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://static.itch.io/lib.min.js?1746215576
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\lib.min.js
+Content Type: application/x-javascript
+
+Uri: https://static.itch.io/lib/farbtastic/marker.png
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\lib\farbtastic\marker.png
+Content Type: image/png
+
+Uri: https://static.itch.io/lib/farbtastic/mask.png
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\lib\farbtastic\mask.png
+Content Type: image/png
+
+Uri: https://static.itch.io/lib/farbtastic/wheel.png
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\lib\farbtastic\wheel.png
+Content Type: image/png
+
+Uri: https://static.itch.io/lib/jquery.maskMoney.js
+File Name: C:\Downloaded Web Sites\chek4n.itch.io\lib\jquery.maskMoney.js
+Content Type: application/x-javascript
+
